@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../SASS/index.css",
+	"sources": [
+		"../SASS/index.sass"
+	],
+	"sourcesContent": [
+		"#globalchat13x5fjaskld {\n  width: 200px;\n  height: 100px; }\n\n\n\n////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////\n#messages {\n  overflow: scroll;\n  overflow-x: hidden; }\n\n#input_text_field {\n  width: calc(100% - 3.2px);\n  height: 20px; }\n\n#submit_button {\n  display: none; }\n"
+	],
+	"mappings": ";AAAA,AAAA,sBAAsB,CAAC;EACrB,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,KAAM;CAAG;;;AAKnB,AAAA,SAAS,CAAC;EACR,QAAQ,EAAE,MAAO;EACjB,UAAU,EAAE,MAAO;CAAG;;;AAExB,AAAA,iBAAiB,CAAC;EAChB,KAAK,EAAE,kBAAI;EACX,MAAM,EAAE,IAAK;CAAG;;;AAElB,AAAA,cAAc,CAAC;EACb,OAAO,EAAE,IAAK;CAAG",
+	"names": []
+}
